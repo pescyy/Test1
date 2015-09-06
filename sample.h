@@ -17,6 +17,7 @@ int main(){
       printf("Enter marks: ");
       scanf("%d",&marks);
       fprintf(fptr,"\nName: %s \nMarks=%d \n",name,marks);
+	  fprintf)"Hi")
    }
    fclose(fptr);
    return 0;
